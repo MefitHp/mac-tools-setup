@@ -1,0 +1,23 @@
+{
+  // General
+  "window.zoomLevel": 1.1,
+  "diffEditor.maxComputationTime": 0,
+  "extensions.ignoreRecommendations": true,
+  "security.workspace.trust.untrustedFiles": "open",
+
+  // Editor
+  "editor.minimap.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Hack Nerd Font Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.fontSize": 13,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+
+  // Workbench
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Bearded Theme Arc"
+}
